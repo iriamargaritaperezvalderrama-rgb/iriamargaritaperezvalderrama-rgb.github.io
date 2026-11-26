@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.iriamargaritaperezvalderrama_rgb.twa",
-    "sha256_cert_fingerprints": ["B0:32:F3:8C:24:C7:3D:3E:3D:85:6F:F2:19:EB:73:33:A4:1E:44:F9:AE:E4:34:2F:3A:92:E8:73:4B:2F:93:54"]
+    "sha256_cert_fingerprints": ["61:98:EF:A1:0D:04:42:DB:85:89:B2:78:5B:DE:29:3A:B1:CD:A5:5E:2B:EC:C0:85:E4:E1:9F:53:10:7A:9E:D8"]
   }
 }]
