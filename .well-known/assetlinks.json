@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.iriamargaritaperezvalderrama_rgb.twa",
+    "sha256_cert_fingerprints": ["B0:32:F3:8C:24:C7:3D:3E:3D:85:6F:F2:19:EB:73:33:A4:1E:44:F9:AE:E4:34:2F:3A:92:E8:73:4B:2F:93:54"]
+  }
+}]
